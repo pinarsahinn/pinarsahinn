@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi there! I'm Pınar Şahin
 
-<!--
-**pinarsahinn/pinarsahinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me:
+- 🎓 I am a Computer Engineering student.  
+- 💻 My Interests: Java, C, OOP, and Web Development.  
+- 🌱 Currently learning: Data Structures and Algorithms.  
 
-Here are some ideas to get you started:
+## 🎨 Pixel Art Corner:
+[![Pixel Art](https://example.com/link-to-your-pixel-art.png)](https://art.pixilart.com/sr2871c658c38d4.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Connect with Me:
+- [LinkedIn](https://www.linkedin.com/in/p%C4%B1nar-%C5%9Fahin-0a350727b)
+
+🌟 **My projects and content will be here very soon!**
